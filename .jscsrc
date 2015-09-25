@@ -1,0 +1,11 @@
+{
+    "preset": "crockford",
+    "fileExtensions": [".js", ".jsx"],
+    "esnext": true,
+    "verbose": true,
+    "requireMultipleVarDecl": { "allExcept": ["require"] },
+    "requireVarDeclFirst": null,
+    "requireSpacesInAnonymousFunctionExpression": {
+        "beforeOpeningCurlyBrace": true
+    }
+}

@@ -1,0 +1,4 @@
+node_modules
+dist
+.tmp
+app/styles/_sprites.scss
